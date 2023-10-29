@@ -1,6 +1,4 @@
-
-
-# ADBSploit
+![](https://raw.githubusercontent.com/mesquidar/adbsploit/master/adbsploit.png)# ADBSploit
 
 A python based tool for exploiting and managing Android devices via ADB
 
